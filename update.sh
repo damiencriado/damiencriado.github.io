@@ -1,2 +1,0 @@
-gitfolio update
-cp dist/* .
