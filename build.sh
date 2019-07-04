@@ -1,1 +1,1 @@
-gitfolio build damiencriado --theme dark --background http://35.180.26.184/bg3.jpg
+gitfolio build damiencriado --theme dark --background https://damien.id/bg3.jpg
