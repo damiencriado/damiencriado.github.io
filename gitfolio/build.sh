@@ -1,4 +1,4 @@
-gitfolio build damiencriado --theme dark --background https://damien.id/bg3.jpg
+gitfolio build damiencriado --theme dark --background /bg3.jpg
 
 rm ../*
 cp -R dist/* ../
